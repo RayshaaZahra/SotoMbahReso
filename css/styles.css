@@ -284,6 +284,12 @@ body {
   color: var(--primary-foreground);
   padding: 4rem 0;
   text-align: center;
+  background-size: cover;
+  /* Tambahkan ini */
+  background-repeat: no-repeat;
+  /* Tambahkan ini */
+  background-position: center;
+  /* Tambahkan ini */
 }
 
 .header-section h1 {
